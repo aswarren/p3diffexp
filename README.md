@@ -13,10 +13,6 @@ The Differential Expression Import Service facilitates the upload of user-provid
 
 This module is a component of the BV-BRC build system and is designed to integrate seamlessly with the `dev_container` infrastructure, which manages the development and production deployment of BV-BRC components. More documentation on the `dev_container` infrastructure is available [here](https://github.com/BV-BRC/dev_container/tree/master/README.md). 
 
-This module provides the following application specification:
-
-*   [DifferentialExpressionImport](app_specs/DifferentialExpressionImport.md)
-
 ## Service Input
 
 The Differential Expression Import Service requires two input files:
